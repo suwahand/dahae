@@ -1,1 +1,1 @@
-# extract images from pdf files including chart images
+extract images from pdf files including chart images
